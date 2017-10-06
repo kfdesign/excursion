@@ -1,6 +1,6 @@
 body {
   background-color: black;
-  font-family: 'Cinzel', serif;
+  font-family: 'Quattrocento', serif;
   text-align: center;
 }
 
@@ -35,9 +35,15 @@ h3 {
   color: gray;
 }
 
-p {
+.gray {
   font-size: 16px;
   color: gray;
+}
+
+.big {
+  font-size: 65px;
+  font-weight: lighter;
+  color: white;
 }
 
 a {
