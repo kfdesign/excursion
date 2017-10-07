@@ -13,10 +13,8 @@ div {
   background-color: white;
 }
 
-.black {
-  font-family: 'Julius Sans One', sans-serif;
-  font-size: 35px;
-  color: black;
+.silver {
+  background-color: silver;
 }
 
 .big {
@@ -24,6 +22,12 @@ div {
   font-size: 60px;
   font-weight: lighter;
   color: white;
+}
+
+.black {
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 35px;
+  color: black;
 }
 
 h2 {
